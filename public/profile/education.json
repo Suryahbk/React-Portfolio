@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "May 2015 - June 2019",
+            "cardTitle": "B.Tech, Electronics and Communication Engineering",
+            "cardSubtitle":"SRM University, Chennai"
+           
+        },
+        {
+            "title": "June 2014 - April 2015",
+            "cardTitle": "12 std",
+            "cardSubtitle":"Velammal Matriculation Higher Secondary School, Chennai"
+            
+        },
+        {
+            "title": "June 2012 - April 2013",
+            "cardTitle": "10 std",
+            "cardSubtitle":"Velammal Matriculation Higher Secondary School, Chennai"
+            
+        }
+    ]
+}

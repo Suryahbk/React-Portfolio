@@ -1,0 +1,145 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/Myblog.png",
+            "title": "Bloggerapp",
+            "bodyText": "- A simple bloggerapp where u can view and share your blogs. \n - Added User credentials.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Suryahbk/Myblogfrontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://polite-semolina-c97325.netlify.app"
+                }
+            ],
+            "tags" : [ 
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Mongoose",
+                "Mongodb",
+                "express",
+                "react-router-dom"
+            ]
+        },
+
+        {
+            "image" : "images/projects/flix.png",
+            "title": "Flix App",
+            "bodyText": "- In this app you can view the videos of destined movie trailers. \n - Added user credentials.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Suryahbk/sjflix-frontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://warm-bunny-007b27.netlify.app"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "HTML",
+                "CSS",
+                "MAPBOX",
+                "Mongoose",
+                "express",
+                "Mongodb"
+            ]
+        },
+        
+        {
+            "image" : "images/projects/Travelwithme.png",
+            "title": "Travelwithme App",
+            "bodyText": "- In this app you can rate the places and write a descriptive comments on how you feel about that place.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Suryahbk/Travelwithmefe"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://benevolent-pony-0fafd5.netlify.app"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "HTML",
+                "CSS",
+                "MAPBOX",
+                "Mongoose",
+                "express",
+                "Mongodb"
+            ]
+        },
+        {
+            "image" : "images/projects/Chatwithme.png",
+            "title": "Chatting App",
+            "bodyText": "- In this Chatting App you can chat with user who have account in it morealike a watsapp.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Suryahbk/chatwithme-frontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://agitated-wiles-2c669d.netlify.app"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "mongoose",
+                "express",
+                "Mongo-DB"
+            ]
+        },
+        {
+            "image" : "images/projects/authenticationapp.png",
+            "title": "Authentication App",
+            "bodyText": "- This authentication app is used to verify your credentials through elite platforms such as Google, Facebook, Github.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Suryahbk/authlogin-frontend"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://romantic-turing-d247af.netlify.app"
+                }
+            ],
+            "tags" : [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "express",
+                "authRoute"
+            ]
+        },
+    
+
+    {
+        "image" : "images/projects/Bookmyshow.png",
+        "title": "Bookmyshow clone",
+        "bodyText": "- This is a cloned version of movie ticket booking app(bookmyshow).",
+        "links": [
+            {
+                "text": "GitHub",
+                "href": "https://github.com/Suryahbk/Bookmyshowclone"
+            },
+            {
+                "text": "Live",
+                "href": "https://thriving-bublanina-dc6b06.netlify.app"
+            }
+        ],
+        "tags" : [
+            "HTML",
+            "CSS",
+            "Javascript"     
+        ]
+    }
+]
+}
